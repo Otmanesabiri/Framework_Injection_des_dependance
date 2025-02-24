@@ -1,0 +1,12 @@
+ioc\example\IMetier.class
+ioc\example\Main.class
+ioc\example\MetierImpl.class
+ioc\framework\BeanFactory.class
+ioc\framework\Inject.class
+com\mycompany\framework_injection_des_dependence\Framework_Injection_des_dependence.class
+ioc\framework\XMLBeanFactory.class
+ioc\framework\BeanDefinition.class
+ioc\framework\AnnotationBeanFactory.class
+ioc\example\DaoImpl.class
+ioc\framework\Component.class
+ioc\example\IDao.class
